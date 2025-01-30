@@ -1,0 +1,15 @@
+{
+    "name": "accessibilityfixer",
+    "version": "1.0.0",
+    "description": "A script to fix accessibility issues in HTML files",
+    "main": "script.js",
+    "scripts": {
+        "start": "node script.js"
+    },
+    "dependencies": {
+        "jsdom": "^22.1.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
